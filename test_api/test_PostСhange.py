@@ -1,6 +1,5 @@
-import pytest
 import requests
-import test_data
+from test_api import test_data
 
 
 def test_post_change():
